@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WhatsApp Redirector</string>
+    <string name="instruction">Enter phone number below (with country code)</string>
+    <string name="hint">e.g. 62 817 0344 7666</string>
 </resources>
